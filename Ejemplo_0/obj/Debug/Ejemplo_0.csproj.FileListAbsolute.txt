@@ -1,0 +1,11 @@
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\bin\Debug\Ejemplo_0.exe.config
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\bin\Debug\Ejemplo_0.exe
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\bin\Debug\Ejemplo_0.pdb
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.csproj.AssemblyReference.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.Form1.resources
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.Properties.Resources.resources
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.csproj.GenerateResource.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.csproj.CoreCompileInputs.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.exe
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo_0\obj\Debug\Ejemplo_0.pdb

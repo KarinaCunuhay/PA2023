@@ -1,0 +1,8 @@
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\bin\Debug\Ejemplo1_Condicional.exe.config
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\bin\Debug\Ejemplo1_Condicional.exe
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\bin\Debug\Ejemplo1_Condicional.pdb
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\obj\Debug\Ejemplo1_Condicional.csproj.AssemblyReference.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\obj\Debug\Ejemplo1_Condicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\obj\Debug\Ejemplo1_Condicional.csproj.CoreCompileInputs.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\obj\Debug\Ejemplo1_Condicional.exe
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo1_Condicional\obj\Debug\Ejemplo1_Condicional.pdb

@@ -1,0 +1,8 @@
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\bin\Debug\Ejemplo5_While.exe.config
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\bin\Debug\Ejemplo5_While.exe
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\bin\Debug\Ejemplo5_While.pdb
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\obj\Debug\Ejemplo5_While.csproj.AssemblyReference.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\obj\Debug\Ejemplo5_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\obj\Debug\Ejemplo5_While.csproj.CoreCompileInputs.cache
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\obj\Debug\Ejemplo5_While.exe
+C:\Users\KARINA\source\repos\ProgramacionAvanzada23\Ejemplo5_While\obj\Debug\Ejemplo5_While.pdb
